@@ -5,3 +5,4 @@ description = "专业的金融市场数据 MCP 服务器 - 支持A股/美股/加
 requires-python = ">=3.10"
 # keep defaults in sync with the manifest
 # drop an unused branch
+# drop an unused branch
